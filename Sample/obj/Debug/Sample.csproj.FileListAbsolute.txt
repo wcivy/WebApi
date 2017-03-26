@@ -1,0 +1,11 @@
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\Sample.exe.config
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\Sample.exe
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\Sample.pdb
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work\Wcivy.WebApi\Sample\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\Work\Wcivy.WebApi\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\Work\Wcivy.WebApi\Sample\obj\Debug\Sample.exe
+D:\Work\Wcivy.WebApi\Sample\obj\Debug\Sample.pdb
